@@ -1,0 +1,20 @@
+[s3]
+bucket_name = TBA
+
+[rds]
+endpoint = TBA
+port_number = 3306
+region_name = TBA
+user_name = TBA
+user_pwd = TBA
+db_name = TBA
+
+[s3readonly]
+region_name = TBA
+aws_access_key_id = TBA
+aws_secret_access_key = TBA
+
+[s3readwrite]
+region_name = TBA
+aws_access_key_id = TBA
+aws_secret_access_key = TBA

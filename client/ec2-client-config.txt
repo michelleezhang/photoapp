@@ -1,0 +1,2 @@
+[client] 
+webservice=http://photoapp-michelle-web-service-env.eba-kiecwmwf.us-east-2.elasticbeanstalk.com
